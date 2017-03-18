@@ -1,0 +1,6 @@
+for(var i = -300; num <= 0; num = num + 3)
+{
+if(i == -3 || -6);
+} 
+else {console.log(i);
+} 
